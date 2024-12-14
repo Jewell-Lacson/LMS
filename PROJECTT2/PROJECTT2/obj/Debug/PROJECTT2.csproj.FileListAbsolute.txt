@@ -1,0 +1,16 @@
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\bin\Debug\PROJECTT2.exe.config
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\bin\Debug\PROJECTT2.exe
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\bin\Debug\PROJECTT2.pdb
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\obj\Debug\PROJECTT2.csproj.AssemblyReference.cache
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\obj\Debug\PROJECTT2.Form1.resources
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\obj\Debug\PROJECTT2.Properties.Resources.resources
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\obj\Debug\PROJECTT2.csproj.GenerateResource.cache
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\obj\Debug\PROJECTT2.csproj.CoreCompileInputs.cache
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\obj\Debug\PROJECTT2.exe
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\obj\Debug\PROJECTT2.pdb
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\obj\Debug\PROJECTT2.Form2.resources
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\obj\Debug\PROJECTT2.Form5.resources
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\obj\Debug\PROJECTT2.Form3.resources
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\obj\Debug\PROJECTT2.Form4.resources
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\obj\Debug\PROJECTT2.Form6.resources
+C:\Users\jsean\source\repos\PROJECTT2\PROJECTT2\obj\Debug\PROJECTT2.Form7.resources
